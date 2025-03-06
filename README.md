@@ -2,7 +2,7 @@ QUESTION AND ANSWER
 
 1. Why did you choose this dataset?
 
--  As someone who loves to play games, this data set captures my interest on how gaming could affect school grades. For me, it can actually affect negatively if it was being abused and not being responsibly used, but also can possibly help us improve our knowledge, including our critical thinking skills, decision making, and quick thinking which I believe is not appreciated that much by others. Choosing this dataset helps me explore the connection between gaming and academic performance.
+-  As someone who loves playing games, I am interested in how gaming affects school grades. I believe it can have a negative impact if overused and not managed responsibly. However, it may also help develop skills like critical thinking, decision-making, and quick thinking, which are often overlooked. Choosing this dataset allows me to explore the connection between gaming and academic performance.
 
 2. What is your conclusion upon conducting linear regression on this dataset?
 
