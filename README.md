@@ -1,4 +1,4 @@
-QUESTION AND ANSWER
+PRELIMS QUESTION AND ANSWER
 
 1. Why did you choose this dataset?
 
@@ -11,3 +11,19 @@ QUESTION AND ANSWER
 3. How relevant is linear regression today?
 
 -  Linear Regression remains very relevant, especially in data science. It serves as a fundamental tool for understanding relationships between variables, making predictions, and identifying trends.
+
+
+
+MIDTERMS QUESTION AND ANSWER
+
+# 1. Does preprocessing affect the result of the model? Why? 
+Yes! Preprocessing ensures:
+1. Missing values don't skew results
+2. Categorical data is numerically encoded
+3. Features are scaled to equal importance
+
+# 2. What is your conclusion based on the model's result?
+Clusters likely represent: 
+1. High-price properties near the city center (Cluster 0)
+2. Mid-range properties (Cluster 1)
+3. Affordable properties farther from the CBD (Cluster 2)
